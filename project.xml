@@ -2,9 +2,9 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 	<app
-		title="FNF' - Cyber Sensation" main="funkin.backend.system.Main"
-		file="CyberSensation" packageName="com.alonegamer.cybersensationmobile"
-		package="com.alonegamer.cybersensationmobile"
+		title="FNF' - Cyber Sensation Opt" main="funkin.backend.system.Main"
+		file="CyberSensation" packageName="com.kraloyuncu.cybersensationmobileopt"
+		package="com.kraloyuncu.cybersensationmobileopt"
 		version="0.1.0" company="AloneGamer" />
 
 	<!--
