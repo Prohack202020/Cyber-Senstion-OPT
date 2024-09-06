@@ -1,7 +1,0 @@
-
-
-function postCreate()
-    {
-        trace('lol');
-    }
-
