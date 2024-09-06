@@ -140,7 +140,7 @@ function postCreate()
 	TaeYai\n
 	\nWritten by\nTaeYai, TOFU\n	
 	\n[Mobile Port]
-	KralOyuncu, DarkVerseKing
+	KralOyuncu
 	\n[Mobile Optimizer]
 	Forthfireboy
 	
