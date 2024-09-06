@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.8" name="garage" folder="stages/garage">
+    <sprite name="bg" x="150" y="0" sprite="morning" scroll="0.95" scale="1.75"/>
+    <sprite name="sofa" x="-620" y="506" sprite="sofa" scale="1.75"/>
+    <sprite name="light" x="150" y="-125" sprite="light-morning" scale="1.75"/>
+</stage>e>>>e>>

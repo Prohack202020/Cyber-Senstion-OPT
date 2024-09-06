@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="hex" y="210" isGF="false" scale="2.1" camy="130" isPlayer="false" holdTime="6.1" sprite="hex_night">
+	<anim x="190" loop="true" y="-53" fps="24" anim="Hex crazy left" name="singLEFT"/>
+	<anim x="80" loop="true" y="-184" fps="24" anim="Hex crazy down" name="singDOWN"/>
+	<anim x="104" loop="true" y="-5" fps="24" anim="Hex crazy up" name="singUP"/>
+	<anim x="124" loop="true" y="-138" fps="24" anim="Hex crazy right" name="singRIGHT"/>
+	<anim x="0" loop="true" y="-120" fps="24" anim="Hex crazy idle" name="idle"/>
+</character>

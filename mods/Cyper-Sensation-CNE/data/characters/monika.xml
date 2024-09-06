@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="190" icon="monika" y="-180" isGF="false" scale="2.1" camy="-80" isPlayer="false" holdTime="6" sprite="monika">
+	<anim x="21" loop="false" y="15" fps="24" anim="Monika Returns Down" name="singDOWN"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="Monika Returns Idle" name="idle"/>
+	<anim x="-21" loop="false" y="40" fps="24" anim="Monika Returns Left" name="singLEFT"/>
+	<anim x="-40" loop="false" y="15" fps="24" anim="Monika Returns Up" name="singUP"/>
+	<anim x="43" loop="false" y="15" fps="24" anim="Monika Returns Right" name="singRIGHT"/>
+</character>

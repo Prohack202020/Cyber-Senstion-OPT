@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="conner.png">
+  <!--Optimized by itsTomRoyale615-->
+  <SubTexture name="Conner Down0000" x="1754" y="1182" width="153" height="276" frameX="0" frameY="-8" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="Conner Down0001" x="1754" y="1182" width="153" height="276" frameX="0" frameY="-8" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="Conner Down0002" x="1315" y="1290" width="150" height="280" frameX="-3" frameY="-4" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="Conner Down0003" x="1315" y="1290" width="150" height="280" frameX="-3" frameY="-4" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="Conner Down0004" x="1015" y="1290" width="150" height="281" frameX="-3" frameY="-2" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="Conner Down0005" x="1015" y="1290" width="150" height="281" frameX="-3" frameY="-2" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="Conner Down0006" x="1754" y="618" width="150" height="282" frameX="-4" frameY="-1" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="Conner Down0007" x="1754" y="618" width="150" height="282" frameX="-4" frameY="-1" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="Conner Down0008" x="305" y="1586" width="149" height="282" frameX="-4" frameY="-1" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="Conner Down0009" x="305" y="1586" width="149" height="282" frameX="-4" frameY="-1" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="Conner Down0010" x="716" y="1290" width="149" height="283" frameX="-4" frameY="0" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="Conner Down0011" x="716" y="1290" width="149" height="283" frameX="-4" frameY="0" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="Conner Down0012" x="716" y="1290" width="149" height="283" frameX="-4" frameY="0" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="Conner Down0013" x="716" y="1290" width="149" height="283" frameX="-4" frameY="0" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="Conner Down0014" x="716" y="1290" width="149" height="283" frameX="-4" frameY="0" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="Conner Down0015" x="716" y="1290" width="149" height="283" frameX="-4" frameY="0" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="Conner Down0016" x="716" y="1290" width="149" height="283" frameX="-4" frameY="0" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="Conner Down0017" x="716" y="1290" width="149" height="283" frameX="-4" frameY="0" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="Conner Down0018" x="716" y="1290" width="149" height="283" frameX="-4" frameY="0" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="Conner Down0019" x="716" y="1290" width="149" height="283" frameX="-4" frameY="0" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="Conner Down0020" x="716" y="1290" width="149" height="283" frameX="-4" frameY="0" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="Conner Down0021" x="716" y="1290" width="149" height="283" frameX="-4" frameY="0" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="Conner Idle0000" x="1240" y="982" width="156" height="306" frameX="0" frameY="-5" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="Conner Idle0001" x="1240" y="982" width="156" height="306" frameX="0" frameY="-5" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="Conner Idle0002" x="1754" y="309" width="155" height="309" frameX="-1" frameY="-2" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="Conner Idle0003" x="1754" y="309" width="155" height="309" frameX="-1" frameY="-2" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="Conner Idle0004" x="1599" y="933" width="155" height="310" frameX="-2" frameY="-1" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="Conner Idle0005" x="1599" y="933" width="155" height="310" frameX="-2" frameY="-1" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="Conner Idle0006" x="1070" y="666" width="155" height="311" frameX="-2" frameY="0" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="Conner Idle0007" x="1070" y="666" width="155" height="311" frameX="-2" frameY="0" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="Conner Idle0008" x="1599" y="622" width="155" height="311" frameX="-2" frameY="0" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="Conner Idle0009" x="1599" y="622" width="155" height="311" frameX="-2" frameY="0" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="Conner Idle0010" x="1599" y="622" width="155" height="311" frameX="-2" frameY="0" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="Conner Idle0011" x="1599" y="622" width="155" height="311" frameX="-2" frameY="0" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="Conner Idle0012" x="1599" y="622" width="155" height="311" frameX="-2" frameY="0" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="Conner Idle0013" x="1599" y="622" width="155" height="311" frameX="-2" frameY="0" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="Conner Idle0014" x="1599" y="622" width="155" height="311" frameX="-2" frameY="0" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="Conner Left0000" x="1239" y="307" width="179" height="307" frameX="0" frameY="-1" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="Conner Left0001" x="1239" y="307" width="179" height="307" frameX="0" frameY="-1" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="Conner Left0002" x="1239" y="614" width="178" height="308" frameX="-2" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="Conner Left0003" x="1239" y="614" width="178" height="308" frameX="-2" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="Conner Left0004" x="178" y="982" width="177" height="308" frameX="-2" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="Conner Left0005" x="178" y="982" width="177" height="308" frameX="-2" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="Conner Left0006" x="716" y="328" width="177" height="308" frameX="-2" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="Conner Left0007" x="716" y="328" width="177" height="308" frameX="-2" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="Conner Left0008" x="886" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="Conner Left0009" x="886" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="Conner Left0010" x="532" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="Conner Left0011" x="532" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="Conner Left0012" x="532" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="Conner Left0013" x="532" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="Conner Left0014" x="532" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="Conner Left0015" x="532" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="Conner Left0016" x="532" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="Conner Left0017" x="532" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="Conner Left0018" x="532" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="Conner Left0019" x="532" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="Conner Left0020" x="532" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="Conner Left0021" x="532" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="Conner Right0000" x="350" y="653" width="190" height="296" frameX="0" frameY="0" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="Conner Right0001" x="350" y="653" width="190" height="296" frameX="0" frameY="0" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="Conner Right0002" x="724" y="653" width="184" height="296" frameX="0" frameY="0" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="Conner Right0003" x="724" y="653" width="184" height="296" frameX="0" frameY="0" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="Conner Right0004" x="1418" y="296" width="181" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="Conner Right0005" x="1418" y="296" width="181" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="Conner Right0006" x="1418" y="592" width="180" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="Conner Right0007" x="1418" y="592" width="180" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="Conner Right0008" x="179" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="Conner Right0009" x="179" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="Conner Right0010" x="0" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="Conner Right0011" x="0" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="Conner Right0012" x="0" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="Conner Right0013" x="0" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="Conner Right0014" x="0" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="Conner Right0015" x="0" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="Conner Right0016" x="0" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="Conner Right0017" x="0" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="Conner Right0018" x="0" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="Conner Right0019" x="0" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="Conner Right0020" x="0" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="Conner Right0021" x="0" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="Conner Up0000" x="1070" y="333" width="169" height="333" frameX="0" frameY="0" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="Conner Up0001" x="1070" y="333" width="169" height="333" frameX="0" frameY="0" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="Conner Up0002" x="175" y="653" width="175" height="329" frameX="0" frameY="-4" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="Conner Up0003" x="175" y="653" width="175" height="329" frameX="0" frameY="-4" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="Conner Up0004" x="716" y="0" width="177" height="328" frameX="0" frameY="-5" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="Conner Up0005" x="716" y="0" width="177" height="328" frameX="0" frameY="-5" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="Conner Up0006" x="178" y="326" width="178" height="327" frameX="0" frameY="-6" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="Conner Up0007" x="178" y="326" width="178" height="327" frameX="0" frameY="-6" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="Conner Up0008" x="358" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="Conner Up0009" x="358" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="Conner Up0010" x="0" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="Conner Up0011" x="0" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="Conner Up0012" x="0" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="Conner Up0013" x="0" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="Conner Up0014" x="0" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="Conner Up0015" x="0" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="Conner Up0016" x="0" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="Conner Up0017" x="0" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="Conner Up0018" x="0" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="Conner Up0019" x="0" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="Conner Up0020" x="0" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="Conner Up0021" x="0" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="ConnerAngry Down 0000" x="546" y="326" width="153" height="276" frameX="0" frameY="-8" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="ConnerAngry Down 0001" x="546" y="326" width="153" height="276" frameX="0" frameY="-8" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="ConnerAngry Down 0002" x="1165" y="1290" width="150" height="280" frameX="-3" frameY="-4" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="ConnerAngry Down 0003" x="1165" y="1290" width="150" height="280" frameX="-3" frameY="-4" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="ConnerAngry Down 0004" x="865" y="1290" width="150" height="281" frameX="-3" frameY="-2" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="ConnerAngry Down 0005" x="865" y="1290" width="150" height="281" frameX="-3" frameY="-2" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="ConnerAngry Down 0006" x="1754" y="900" width="150" height="282" frameX="-4" frameY="-1" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="ConnerAngry Down 0007" x="1754" y="900" width="150" height="282" frameX="-4" frameY="-1" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="ConnerAngry Down 0008" x="156" y="1586" width="149" height="282" frameX="-4" frameY="-1" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="ConnerAngry Down 0009" x="156" y="1586" width="149" height="282" frameX="-4" frameY="-1" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="ConnerAngry Down 0010" x="908" y="653" width="149" height="283" frameX="-4" frameY="0" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="ConnerAngry Down 0011" x="908" y="653" width="149" height="283" frameX="-4" frameY="0" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="ConnerAngry Down 0012" x="908" y="653" width="149" height="283" frameX="-4" frameY="0" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="ConnerAngry Down 0013" x="908" y="653" width="149" height="283" frameX="-4" frameY="0" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="ConnerAngry Down 0014" x="908" y="653" width="149" height="283" frameX="-4" frameY="0" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="ConnerAngry Down 0015" x="908" y="653" width="149" height="283" frameX="-4" frameY="0" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="ConnerAngry Down 0016" x="908" y="653" width="149" height="283" frameX="-4" frameY="0" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="ConnerAngry Down 0017" x="908" y="653" width="149" height="283" frameX="-4" frameY="0" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="ConnerAngry Down 0018" x="908" y="653" width="149" height="283" frameX="-4" frameY="0" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="ConnerAngry Down 0019" x="908" y="653" width="149" height="283" frameX="-4" frameY="0" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="ConnerAngry Down 0020" x="908" y="653" width="149" height="283" frameX="-4" frameY="0" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="ConnerAngry Down 0021" x="908" y="653" width="149" height="283" frameX="-4" frameY="0" frameWidth="153" frameHeight="283"/>
+  <SubTexture name="ConnerAngry Idle 0000" x="0" y="1586" width="156" height="306" frameX="0" frameY="-5" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="ConnerAngry Idle 0001" x="0" y="1586" width="156" height="306" frameX="0" frameY="-5" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="ConnerAngry Idle 0002" x="1754" y="0" width="155" height="309" frameX="-1" frameY="-2" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="ConnerAngry Idle 0003" x="1754" y="0" width="155" height="309" frameX="-1" frameY="-2" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="ConnerAngry Idle 0004" x="1599" y="1243" width="155" height="310" frameX="-2" frameY="-1" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="ConnerAngry Idle 0005" x="1599" y="1243" width="155" height="310" frameX="-2" frameY="-1" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="ConnerAngry Idle 0006" x="1599" y="0" width="155" height="311" frameX="-2" frameY="0" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="ConnerAngry Idle 0007" x="1599" y="0" width="155" height="311" frameX="-2" frameY="0" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="ConnerAngry Idle 0008" x="1599" y="311" width="155" height="311" frameX="-2" frameY="0" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="ConnerAngry Idle 0009" x="1599" y="311" width="155" height="311" frameX="-2" frameY="0" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="ConnerAngry Idle 0010" x="1599" y="311" width="155" height="311" frameX="-2" frameY="0" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="ConnerAngry Idle 0011" x="1599" y="311" width="155" height="311" frameX="-2" frameY="0" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="ConnerAngry Idle 0012" x="1599" y="311" width="155" height="311" frameX="-2" frameY="0" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="ConnerAngry Idle 0013" x="1599" y="311" width="155" height="311" frameX="-2" frameY="0" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="ConnerAngry Idle 0014" x="1599" y="311" width="155" height="311" frameX="-2" frameY="0" frameWidth="157" frameHeight="311"/>
+  <SubTexture name="ConnerAngry Left 0000" x="1239" y="0" width="179" height="307" frameX="0" frameY="-1" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="ConnerAngry Left 0001" x="1239" y="0" width="179" height="307" frameX="0" frameY="-1" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="ConnerAngry Left 0002" x="0" y="982" width="178" height="308" frameX="-2" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="ConnerAngry Left 0003" x="0" y="982" width="178" height="308" frameX="-2" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="ConnerAngry Left 0004" x="893" y="328" width="177" height="308" frameX="-2" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="ConnerAngry Left 0005" x="893" y="328" width="177" height="308" frameX="-2" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="ConnerAngry Left 0006" x="355" y="982" width="177" height="308" frameX="-2" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="ConnerAngry Left 0007" x="355" y="982" width="177" height="308" frameX="-2" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="ConnerAngry Left 0008" x="1063" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="ConnerAngry Left 0009" x="1063" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="ConnerAngry Left 0010" x="709" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="ConnerAngry Left 0011" x="709" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="ConnerAngry Left 0012" x="709" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="ConnerAngry Left 0013" x="709" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="ConnerAngry Left 0014" x="709" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="ConnerAngry Left 0015" x="709" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="ConnerAngry Left 0016" x="709" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="ConnerAngry Left 0017" x="709" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="ConnerAngry Left 0018" x="709" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="ConnerAngry Left 0019" x="709" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="ConnerAngry Left 0020" x="709" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="ConnerAngry Left 0021" x="709" y="982" width="177" height="307" frameX="-3" frameY="0" frameWidth="179" frameHeight="308"/>
+  <SubTexture name="ConnerAngry Right 0000" x="356" y="326" width="190" height="296" frameX="0" frameY="0" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="ConnerAngry Right 0001" x="356" y="326" width="190" height="296" frameX="0" frameY="0" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="ConnerAngry Right 0002" x="540" y="653" width="184" height="296" frameX="0" frameY="0" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="ConnerAngry Right 0003" x="540" y="653" width="184" height="296" frameX="0" frameY="0" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="ConnerAngry Right 0004" x="1418" y="0" width="181" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="ConnerAngry Right 0005" x="1418" y="0" width="181" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="ConnerAngry Right 0006" x="1418" y="888" width="180" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="ConnerAngry Right 0007" x="1418" y="888" width="180" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="ConnerAngry Right 0008" x="358" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="ConnerAngry Right 0009" x="358" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="ConnerAngry Right 0010" x="537" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="ConnerAngry Right 0011" x="537" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="ConnerAngry Right 0012" x="537" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="ConnerAngry Right 0013" x="537" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="ConnerAngry Right 0014" x="537" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="ConnerAngry Right 0015" x="537" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="ConnerAngry Right 0016" x="537" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="ConnerAngry Right 0017" x="537" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="ConnerAngry Right 0018" x="537" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="ConnerAngry Right 0019" x="537" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="ConnerAngry Right 0020" x="537" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="ConnerAngry Right 0021" x="537" y="1290" width="179" height="296" frameX="0" frameY="-1" frameWidth="190" frameHeight="296"/>
+  <SubTexture name="ConnerAngry Up 0000" x="1070" y="0" width="169" height="333" frameX="0" frameY="0" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="ConnerAngry Up 0001" x="1070" y="0" width="169" height="333" frameX="0" frameY="0" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="ConnerAngry Up 0002" x="0" y="653" width="175" height="329" frameX="0" frameY="-4" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="ConnerAngry Up 0003" x="0" y="653" width="175" height="329" frameX="0" frameY="-4" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="ConnerAngry Up 0004" x="893" y="0" width="177" height="328" frameX="0" frameY="-5" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="ConnerAngry Up 0005" x="893" y="0" width="177" height="328" frameX="0" frameY="-5" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="ConnerAngry Up 0006" x="0" y="326" width="178" height="327" frameX="0" frameY="-6" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="ConnerAngry Up 0007" x="0" y="326" width="178" height="327" frameX="0" frameY="-6" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="ConnerAngry Up 0008" x="179" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="ConnerAngry Up 0009" x="179" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="ConnerAngry Up 0010" x="537" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="ConnerAngry Up 0011" x="537" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="ConnerAngry Up 0012" x="537" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="ConnerAngry Up 0013" x="537" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="ConnerAngry Up 0014" x="537" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="ConnerAngry Up 0015" x="537" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="ConnerAngry Up 0016" x="537" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="ConnerAngry Up 0017" x="537" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="ConnerAngry Up 0018" x="537" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="ConnerAngry Up 0019" x="537" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="ConnerAngry Up 0020" x="537" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+  <SubTexture name="ConnerAngry Up 0021" x="537" y="0" width="179" height="326" frameX="0" frameY="-7" frameWidth="179" frameHeight="333"/>
+</TextureAtlas>

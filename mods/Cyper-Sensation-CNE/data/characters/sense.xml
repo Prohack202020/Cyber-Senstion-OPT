@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="nonsense" y="210" isGF="false" scale="2.1" camy="180" isPlayer="false" holdTime="6.1" sprite="sense" notesprite="nonsense">
+	<anim x="21" loop="false" y="-29" fps="24" anim="Sense down sax0" name="singDOWN-alt"/>
+	<anim x="4" loop="false" y="14" fps="24" anim="Sense Up Sax0" name="singUP-alt"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="SenseIdle0" name="idle"/>
+	<anim x="0" loop="false" y="-5" fps="24" anim="Sense Left0" name="singLEFT"/>
+	<anim x="-9" loop="false" y="-28" fps="24" anim="Sense down0" name="singDOWN"/>
+	<anim x="4" loop="false" y="14" fps="24" anim="Sense Up0" name="singUP"/>
+	<anim x="-19" loop="false" y="-16" fps="24" anim="Sense Right0" name="singRIGHT"/>
+	<anim x="2" loop="false" y="-4" fps="24" anim="Sense Left Sax0" name="singLEFT-alt"/>
+	<anim x="-7" loop="false" y="-19" fps="24" anim="Sense Right sax0" name="singRIGHT-alt"/>
+</character>

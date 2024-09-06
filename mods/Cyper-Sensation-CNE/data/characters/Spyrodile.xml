@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="5" icon="spyrodile" camx="50" y="210" isGF="false" scale="2.1" camy="210" isPlayer="false" holdTime="6.1" sprite="Spyrodile">
+	<anim x="80" loop="false" y="0" fps="24" anim="Idle" name="idle"/>
+	<anim x="-10" loop="false" y="-57" fps="24" anim="Down" name="singDOWN"/>
+	<anim x="430" loop="false" y="340" fps="24" anim="Up" name="singUP"/>
+	<anim x="28" loop="false" y="76" fps="24" anim="Right" name="singRIGHT"/>
+	<anim x="200" loop="false" y="-40" fps="24" anim="Left" name="singLEFT"/>
+</character>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="taeyainoholo.png">
+  <!--Optimized by itsTomRoyale615-->
+  <SubTexture name="Taenoholo down0000" x="240" y="401" width="185" height="360" frameX="0" frameY="-7" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo down0001" x="240" y="401" width="185" height="360" frameX="0" frameY="-7" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo down0002" x="672" y="1216" width="181" height="363" frameX="-2" frameY="-4" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo down0003" x="672" y="1216" width="181" height="363" frameX="-2" frameY="-4" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo down0004" x="1650" y="0" width="180" height="364" frameX="-2" frameY="-2" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo down0005" x="1650" y="0" width="180" height="364" frameX="-2" frameY="-2" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo down0006" x="1650" y="730" width="179" height="365" frameX="-3" frameY="-1" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo down0007" x="1650" y="730" width="179" height="365" frameX="-3" frameY="-1" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo down0008" x="1650" y="364" width="179" height="366" frameX="-3" frameY="-1" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo down0009" x="1650" y="364" width="179" height="366" frameX="-3" frameY="-1" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo down0010" x="1650" y="1095" width="178" height="366" frameX="-3" frameY="0" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo down0011" x="1650" y="1095" width="178" height="366" frameX="-3" frameY="0" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo down0012" x="1650" y="1095" width="178" height="366" frameX="-3" frameY="0" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo down0013" x="1650" y="1095" width="178" height="366" frameX="-3" frameY="0" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo down0014" x="1650" y="1095" width="178" height="366" frameX="-3" frameY="0" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo idle0000" x="711" y="401" width="169" height="397" frameX="-5" frameY="-8" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0001" x="711" y="401" width="169" height="397" frameX="-5" frameY="-8" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0002" x="505" y="1216" width="167" height="394" frameX="-4" frameY="-11" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0003" x="505" y="1216" width="167" height="394" frameX="-4" frameY="-11" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0004" x="338" y="1216" width="167" height="396" frameX="-4" frameY="-9" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0005" x="338" y="1216" width="167" height="396" frameX="-4" frameY="-9" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0006" x="476" y="401" width="168" height="397" frameX="-5" frameY="-9" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0007" x="1050" y="801" width="171" height="403" frameX="-6" frameY="-2" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0008" x="1050" y="801" width="171" height="403" frameX="-6" frameY="-2" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0009" x="1050" y="801" width="171" height="403" frameX="-6" frameY="-2" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0010" x="705" y="801" width="173" height="403" frameX="-6" frameY="-3" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0011" x="705" y="801" width="173" height="403" frameX="-6" frameY="-3" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0012" x="705" y="801" width="173" height="403" frameX="-6" frameY="-3" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0013" x="529" y="801" width="176" height="403" frameX="-3" frameY="-2" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0014" x="529" y="801" width="176" height="403" frameX="-3" frameY="-2" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0015" x="944" y="402" width="176" height="396" frameX="-3" frameY="-10" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0016" x="944" y="402" width="176" height="396" frameX="-3" frameY="-10" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0017" x="1127" y="402" width="181" height="396" frameX="-1" frameY="-9" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0018" x="1127" y="402" width="181" height="396" frameX="-1" frameY="-9" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0019" x="944" y="0" width="183" height="402" frameX="0" frameY="-3" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0020" x="944" y="0" width="183" height="402" frameX="0" frameY="-3" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0021" x="1127" y="0" width="182" height="402" frameX="0" frameY="-3" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0022" x="174" y="801" width="178" height="405" frameX="-2" frameY="0" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0023" x="174" y="801" width="178" height="405" frameX="-2" frameY="0" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0024" x="174" y="801" width="178" height="405" frameX="-2" frameY="0" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0025" x="352" y="801" width="177" height="404" frameX="-1" frameY="-1" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0026" x="352" y="801" width="177" height="404" frameX="-1" frameY="-1" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0027" x="352" y="801" width="177" height="404" frameX="-1" frameY="-1" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0028" x="878" y="801" width="172" height="403" frameX="-3" frameY="-2" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo idle0029" x="878" y="801" width="172" height="403" frameX="-3" frameY="-2" frameWidth="183" frameHeight="405"/>
+  <SubTexture name="Taenoholo left0000" x="0" y="0" width="240" height="400" frameX="0" frameY="-1" frameWidth="240" frameHeight="401"/>
+  <SubTexture name="Taenoholo left0001" x="0" y="0" width="240" height="400" frameX="0" frameY="-1" frameWidth="240" frameHeight="401"/>
+  <SubTexture name="Taenoholo left0002" x="0" y="400" width="237" height="401" frameX="-5" frameY="-1" frameWidth="242" frameHeight="401"/>
+  <SubTexture name="Taenoholo left0003" x="0" y="400" width="237" height="401" frameX="-5" frameY="-1" frameWidth="242" frameHeight="401"/>
+  <SubTexture name="Taenoholo left0004" x="240" y="0" width="236" height="401" frameX="-6" frameY="0" frameWidth="242" frameHeight="401"/>
+  <SubTexture name="Taenoholo left0005" x="240" y="0" width="236" height="401" frameX="-6" frameY="0" frameWidth="242" frameHeight="401"/>
+  <SubTexture name="Taenoholo left0006" x="476" y="0" width="235" height="401" frameX="-7" frameY="0" frameWidth="242" frameHeight="401"/>
+  <SubTexture name="Taenoholo left0007" x="476" y="0" width="235" height="401" frameX="-7" frameY="0" frameWidth="242" frameHeight="401"/>
+  <SubTexture name="Taenoholo left0008" x="476" y="0" width="235" height="401" frameX="-7" frameY="0" frameWidth="242" frameHeight="401"/>
+  <SubTexture name="Taenoholo left0009" x="476" y="0" width="235" height="401" frameX="-7" frameY="0" frameWidth="242" frameHeight="401"/>
+  <SubTexture name="Taenoholo left0010" x="476" y="0" width="235" height="401" frameX="-7" frameY="0" frameWidth="242" frameHeight="401"/>
+  <SubTexture name="Taenoholo left0011" x="476" y="0" width="235" height="401" frameX="-7" frameY="0" frameWidth="242" frameHeight="401"/>
+  <SubTexture name="Taenoholo left0012" x="476" y="0" width="235" height="401" frameX="-7" frameY="0" frameWidth="242" frameHeight="401"/>
+  <SubTexture name="Taenoholo left0013" x="476" y="0" width="235" height="401" frameX="-7" frameY="0" frameWidth="242" frameHeight="401"/>
+  <SubTexture name="Taenoholo left0014" x="476" y="0" width="235" height="401" frameX="-7" frameY="0" frameWidth="242" frameHeight="401"/>
+  <SubTexture name="Taenoholo missdown 0000" x="240" y="401" width="185" height="360" frameX="0" frameY="-7" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo missdown 0001" x="240" y="401" width="185" height="360" frameX="0" frameY="-7" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo missdown 0002" x="1830" y="0" width="178" height="366" frameX="-3" frameY="0" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo missdown 0003" x="1830" y="0" width="178" height="366" frameX="-3" frameY="0" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo missdown 0004" x="1830" y="0" width="178" height="366" frameX="-3" frameY="0" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo missdown 0005" x="1830" y="0" width="178" height="366" frameX="-3" frameY="0" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo missdown 0006" x="1830" y="0" width="178" height="366" frameX="-3" frameY="0" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo missdown 0007" x="1830" y="0" width="178" height="366" frameX="-3" frameY="0" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo missdown 0008" x="1830" y="0" width="178" height="366" frameX="-3" frameY="0" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo missdown 0009" x="1830" y="0" width="178" height="366" frameX="-3" frameY="0" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo missdown 0010" x="1830" y="0" width="178" height="366" frameX="-3" frameY="0" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo missdown 0011" x="1830" y="0" width="178" height="366" frameX="-3" frameY="0" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo missdown 0012" x="1830" y="0" width="178" height="366" frameX="-3" frameY="0" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo missdown 0013" x="1830" y="0" width="178" height="366" frameX="-3" frameY="0" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo missdown 0014" x="1830" y="0" width="178" height="366" frameX="-3" frameY="0" frameWidth="185" frameHeight="366"/>
+  <SubTexture name="Taenoholo missleft 0000" x="0" y="0" width="240" height="400" frameX="0" frameY="-1" frameWidth="240" frameHeight="401"/>
+  <SubTexture name="Taenoholo missleft 0001" x="0" y="0" width="240" height="400" frameX="0" frameY="-1" frameWidth="240" frameHeight="401"/>
+  <SubTexture name="Taenoholo missleft 0002" x="711" y="0" width="233" height="401" frameX="-5" frameY="0" frameWidth="240" frameHeight="401"/>
+  <SubTexture name="Taenoholo missleft 0003" x="711" y="0" width="233" height="401" frameX="-5" frameY="0" frameWidth="240" frameHeight="401"/>
+  <SubTexture name="Taenoholo missleft 0004" x="711" y="0" width="233" height="401" frameX="-5" frameY="0" frameWidth="240" frameHeight="401"/>
+  <SubTexture name="Taenoholo missleft 0005" x="711" y="0" width="233" height="401" frameX="-5" frameY="0" frameWidth="240" frameHeight="401"/>
+  <SubTexture name="Taenoholo missleft 0006" x="711" y="0" width="233" height="401" frameX="-5" frameY="0" frameWidth="240" frameHeight="401"/>
+  <SubTexture name="Taenoholo missleft 0007" x="711" y="0" width="233" height="401" frameX="-5" frameY="0" frameWidth="240" frameHeight="401"/>
+  <SubTexture name="Taenoholo missleft 0008" x="711" y="0" width="233" height="401" frameX="-5" frameY="0" frameWidth="240" frameHeight="401"/>
+  <SubTexture name="Taenoholo missleft 0009" x="711" y="0" width="233" height="401" frameX="-5" frameY="0" frameWidth="240" frameHeight="401"/>
+  <SubTexture name="Taenoholo missleft 0010" x="711" y="0" width="233" height="401" frameX="-5" frameY="0" frameWidth="240" frameHeight="401"/>
+  <SubTexture name="Taenoholo missleft 0011" x="711" y="0" width="233" height="401" frameX="-5" frameY="0" frameWidth="240" frameHeight="401"/>
+  <SubTexture name="Taenoholo missleft 0012" x="711" y="0" width="233" height="401" frameX="-5" frameY="0" frameWidth="240" frameHeight="401"/>
+  <SubTexture name="Taenoholo missleft 0013" x="711" y="0" width="233" height="401" frameX="-5" frameY="0" frameWidth="240" frameHeight="401"/>
+  <SubTexture name="Taenoholo missleft 0014" x="711" y="0" width="233" height="401" frameX="-5" frameY="0" frameWidth="240" frameHeight="401"/>
+  <SubTexture name="Taenoholo missright 0000" x="2008" y="0" width="159" height="398" frameX="-1" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo missright 0001" x="2008" y="0" width="159" height="398" frameX="-1" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo missright 0002" x="2008" y="398" width="159" height="398" frameX="0" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo missright 0003" x="2008" y="398" width="159" height="398" frameX="0" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo missright 0004" x="2008" y="398" width="159" height="398" frameX="0" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo missright 0005" x="2008" y="398" width="159" height="398" frameX="0" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo missright 0006" x="2008" y="398" width="159" height="398" frameX="0" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo missright 0007" x="2008" y="398" width="159" height="398" frameX="0" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo missright 0008" x="2008" y="398" width="159" height="398" frameX="0" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo missright 0009" x="2008" y="398" width="159" height="398" frameX="0" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo missright 0010" x="2008" y="398" width="159" height="398" frameX="0" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo missright 0011" x="2008" y="398" width="159" height="398" frameX="0" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo missright 0012" x="2008" y="398" width="159" height="398" frameX="0" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo missright 0013" x="2008" y="398" width="159" height="398" frameX="0" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo missright 0014" x="2008" y="398" width="159" height="398" frameX="0" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo missup0000" x="0" y="801" width="174" height="415" frameX="0" frameY="0" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo missup0001" x="0" y="801" width="174" height="415" frameX="0" frameY="0" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo missup0002" x="1480" y="413" width="170" height="412" frameX="-1" frameY="-4" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo missup0003" x="1480" y="413" width="170" height="412" frameX="-1" frameY="-4" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo missup0004" x="1480" y="413" width="170" height="412" frameX="-1" frameY="-4" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo missup0005" x="1480" y="413" width="170" height="412" frameX="-1" frameY="-4" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo missup0006" x="1480" y="413" width="170" height="412" frameX="-1" frameY="-4" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo missup0007" x="1480" y="413" width="170" height="412" frameX="-1" frameY="-4" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo missup0008" x="1480" y="413" width="170" height="412" frameX="-1" frameY="-4" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo missup0009" x="1480" y="413" width="170" height="412" frameX="-1" frameY="-4" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo missup0010" x="1480" y="413" width="170" height="412" frameX="-1" frameY="-4" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo missup0011" x="1480" y="413" width="170" height="412" frameX="-1" frameY="-4" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo missup0012" x="1480" y="413" width="170" height="412" frameX="-1" frameY="-4" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo missup0013" x="1480" y="413" width="170" height="412" frameX="-1" frameY="-4" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo missup0014" x="1480" y="413" width="170" height="412" frameX="-1" frameY="-4" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo right0000" x="2008" y="0" width="159" height="398" frameX="-1" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo right0001" x="2008" y="0" width="159" height="398" frameX="-1" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo right0002" x="2008" y="796" width="159" height="398" frameX="-1" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo right0003" x="2008" y="796" width="159" height="398" frameX="-1" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo right0004" x="1830" y="366" width="160" height="398" frameX="0" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo right0005" x="1830" y="366" width="160" height="398" frameX="0" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo right0006" x="1830" y="764" width="160" height="398" frameX="0" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo right0007" x="1830" y="764" width="160" height="398" frameX="0" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo right0008" x="1830" y="1162" width="159" height="398" frameX="0" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo right0009" x="1830" y="1162" width="159" height="398" frameX="0" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo right0010" x="2008" y="1194" width="159" height="398" frameX="0" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo right0011" x="2008" y="1194" width="159" height="398" frameX="0" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo right0012" x="2008" y="1194" width="159" height="398" frameX="0" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo right0013" x="2008" y="1194" width="159" height="398" frameX="0" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo right0014" x="2008" y="1194" width="159" height="398" frameX="0" frameY="0" frameWidth="160" frameHeight="398"/>
+  <SubTexture name="Taenoholo up0000" x="0" y="801" width="174" height="415" frameX="0" frameY="0" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo up0001" x="0" y="801" width="174" height="415" frameX="0" frameY="0" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo up0002" x="1309" y="0" width="171" height="413" frameX="-1" frameY="-2" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo up0003" x="1309" y="0" width="171" height="413" frameX="-1" frameY="-2" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo up0004" x="1309" y="413" width="171" height="413" frameX="-2" frameY="-2" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo up0005" x="1309" y="413" width="171" height="413" frameX="-2" frameY="-2" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo up0006" x="1480" y="0" width="170" height="413" frameX="-2" frameY="-3" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo up0007" x="1480" y="0" width="170" height="413" frameX="-2" frameY="-3" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo up0008" x="0" y="1216" width="169" height="413" frameX="-2" frameY="-3" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo up0009" x="0" y="1216" width="169" height="413" frameX="-2" frameY="-3" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo up0010" x="169" y="1216" width="169" height="412" frameX="-2" frameY="-4" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo up0011" x="169" y="1216" width="169" height="412" frameX="-2" frameY="-4" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo up0012" x="169" y="1216" width="169" height="412" frameX="-2" frameY="-4" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo up0013" x="169" y="1216" width="169" height="412" frameX="-2" frameY="-4" frameWidth="174" frameHeight="416"/>
+  <SubTexture name="Taenoholo up0014" x="169" y="1216" width="169" height="412" frameX="-2" frameY="-4" frameWidth="174" frameHeight="416"/>
+</TextureAtlas>

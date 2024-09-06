@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="90" icon="taeyai-evil" y="210" isGF="false" scale="2.1" camy="200" isPlayer="false" holdTime="6.1" sprite="taeyai-evil" notesprite="taeyai">
+	<anim x="56" loop="false" y="-30" fps="24" anim="TaeYai fly left0" name="singLEFT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="TaeYai fly 0" name="idle"/>
+	<anim x="3" loop="false" y="37" fps="24" anim="TaeYai fly up0" name="singUP"/>
+	<anim x="20" loop="false" y="-85" fps="24" anim="TaeYai fly down0" name="singDOWN"/>
+	<anim x="3" loop="false" y="37" fps="24" anim="TaeYai fly I do0" name="line"/>
+	<anim x="-29" loop="false" y="-2" fps="24" anim="TaeYai fly right0" name="singRIGHT"/>
+</character>

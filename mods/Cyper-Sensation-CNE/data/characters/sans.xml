@@ -1,0 +1,22 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="perseverance-sans" y="170" isGF="false" scale="2.2" camy="260" isPlayer="false" holdTime="5" sprite="sans">
+	<anim x="44" loop="false" y="-50" fps="24" anim="maddown" name="madsingDOWN"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="idle" name="idle"/>
+	<anim x="44" loop="false" y="5" fps="24" anim="left" name="singLEFT"/>
+	<anim x="0" loop="false" y="-17" fps="24" anim="down" name="singDOWN"/>
+	<anim x="-6" loop="false" y="2" fps="24" anim="up" name="singUP"/>
+	<anim x="-8" loop="false" y="-1" fps="24" anim="right" name="singRIGHT"/>
+	<anim x="0" loop="false" y="-1" fps="24" anim="madidle" name="madidle"/>
+	<anim x="88" loop="false" y="-1" fps="24" anim="madright" name="madsingRIGHT"/>
+	<anim x="48" loop="false" y="18" fps="24" anim="madup" name="madsingUP"/>
+	<anim x="107" loop="false" y="-25" fps="24" anim="madleft" name="madsingLEFT"/>
+	<anim x="-5" loop="false" y="7" fps="24" anim="red_eye" name="red_eye"/>
+	<anim x="60" loop="false" y="-3" fps="24" anim="voiceline" name="voiceline"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="racistidle" name="racistidle"/>
+	<anim x="50" loop="false" y="19" fps="24" anim="racistup" name="racistsingUP"/>
+	<anim x="47" loop="false" y="-46" fps="24" anim="racistdown" name="racistsingDOWN"/>
+	<anim x="92" loop="false" y="-1" fps="24" anim="racistright" name="racistsingRIGHT"/>
+	<anim x="106" loop="false" y="-23" fps="24" anim="racistleft" name="racistsingLEFT"/>
+	<anim x="-1" loop="false" y="5" fps="24" anim="eye" name="eye"/>
+	<anim x="60" loop="false" y="-3" fps="24" anim="voiceline" name="madvoiceline"/>
+</character>

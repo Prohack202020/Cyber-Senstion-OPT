@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="taeyaiex.png">
+  <!--Optimized by itsTomRoyale615-->
+  <SubTexture name="EX TeaYai down0000" x="858" y="419" width="239" height="368" frameX="0" frameY="-10" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0001" x="858" y="419" width="239" height="368" frameX="0" frameY="-10" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0002" x="1116" y="415" width="238" height="374" frameX="-1" frameY="-4" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0003" x="1116" y="415" width="238" height="374" frameX="-1" frameY="-4" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0004" x="935" y="1205" width="238" height="376" frameX="-2" frameY="-2" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0005" x="935" y="1205" width="238" height="376" frameX="-2" frameY="-2" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0006" x="1375" y="824" width="238" height="377" frameX="-2" frameY="-1" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0007" x="1375" y="824" width="238" height="377" frameX="-2" frameY="-1" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0008" x="1633" y="0" width="237" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0009" x="1633" y="0" width="237" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0010" x="1633" y="0" width="237" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0011" x="1633" y="0" width="237" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0012" x="1633" y="0" width="237" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0013" x="1633" y="0" width="237" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0014" x="1633" y="0" width="237" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0015" x="1633" y="0" width="237" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0016" x="1633" y="0" width="237" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0017" x="1633" y="0" width="237" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0018" x="1633" y="0" width="237" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0019" x="1633" y="0" width="237" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0020" x="1633" y="0" width="237" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0021" x="1633" y="0" width="237" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0022" x="1633" y="0" width="237" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0023" x="1633" y="0" width="237" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0024" x="1633" y="0" width="237" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0025" x="1633" y="0" width="237" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0026" x="1633" y="0" width="237" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0027" x="1633" y="0" width="237" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0028" x="1633" y="0" width="237" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down0029" x="1633" y="0" width="237" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0000" x="858" y="419" width="239" height="368" frameX="0" frameY="-10" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0001" x="858" y="419" width="239" height="368" frameX="0" frameY="-10" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0002" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0003" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0004" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0005" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0006" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0007" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0008" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0009" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0010" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0011" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0012" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0013" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0014" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0015" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0016" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0017" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0018" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0019" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0020" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0021" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0022" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0023" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0024" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0025" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0026" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0027" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0028" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai down Miss0029" x="1633" y="790" width="193" height="377" frameX="-2" frameY="0" frameWidth="239" frameHeight="378"/>
+  <SubTexture name="EX TeaYai idle0000" x="468" y="1205" width="235" height="403" frameX="0" frameY="-5" frameWidth="235" frameHeight="408"/>
+  <SubTexture name="EX TeaYai idle0001" x="468" y="1205" width="235" height="403" frameX="0" frameY="-5" frameWidth="235" frameHeight="408"/>
+  <SubTexture name="EX TeaYai idle0002" x="234" y="1205" width="234" height="407" frameX="-1" frameY="-1" frameWidth="235" frameHeight="408"/>
+  <SubTexture name="EX TeaYai idle0003" x="234" y="1205" width="234" height="407" frameX="-1" frameY="-1" frameWidth="235" frameHeight="408"/>
+  <SubTexture name="EX TeaYai idle0004" x="1375" y="416" width="234" height="408" frameX="-1" frameY="-1" frameWidth="235" frameHeight="408"/>
+  <SubTexture name="EX TeaYai idle0005" x="1375" y="416" width="234" height="408" frameX="-1" frameY="-1" frameWidth="235" frameHeight="408"/>
+  <SubTexture name="EX TeaYai idle0006" x="0" y="1205" width="234" height="408" frameX="-1" frameY="0" frameWidth="235" frameHeight="408"/>
+  <SubTexture name="EX TeaYai idle0007" x="0" y="1205" width="234" height="408" frameX="-1" frameY="0" frameWidth="235" frameHeight="408"/>
+  <SubTexture name="EX TeaYai idle0008" x="1011" y="790" width="234" height="408" frameX="-1" frameY="0" frameWidth="235" frameHeight="408"/>
+  <SubTexture name="EX TeaYai idle0009" x="777" y="790" width="234" height="408" frameX="-1" frameY="0" frameWidth="235" frameHeight="408"/>
+  <SubTexture name="EX TeaYai idle0010" x="777" y="790" width="234" height="408" frameX="-1" frameY="0" frameWidth="235" frameHeight="408"/>
+  <SubTexture name="EX TeaYai idle0011" x="777" y="790" width="234" height="408" frameX="-1" frameY="0" frameWidth="235" frameHeight="408"/>
+  <SubTexture name="EX TeaYai idle0012" x="777" y="790" width="234" height="408" frameX="-1" frameY="0" frameWidth="235" frameHeight="408"/>
+  <SubTexture name="EX TeaYai idle0013" x="777" y="790" width="234" height="408" frameX="-1" frameY="0" frameWidth="235" frameHeight="408"/>
+  <SubTexture name="EX TeaYai idle0014" x="777" y="790" width="234" height="408" frameX="-1" frameY="0" frameWidth="235" frameHeight="408"/>
+  <SubTexture name="EX TeaYai left0000" x="0" y="0" width="288" height="395" frameX="0" frameY="-1" frameWidth="288" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0001" x="0" y="0" width="288" height="395" frameX="0" frameY="-1" frameWidth="288" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0002" x="573" y="0" width="285" height="395" frameX="-6" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0003" x="573" y="0" width="285" height="395" frameX="-6" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0004" x="288" y="0" width="285" height="395" frameX="-8" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0005" x="288" y="0" width="285" height="395" frameX="-8" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0006" x="0" y="395" width="284" height="395" frameX="-9" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0007" x="0" y="395" width="284" height="395" frameX="-9" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0008" x="568" y="395" width="284" height="395" frameX="-10" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0009" x="568" y="395" width="284" height="395" frameX="-10" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0010" x="284" y="395" width="284" height="395" frameX="-10" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0011" x="284" y="395" width="284" height="395" frameX="-10" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0012" x="284" y="395" width="284" height="395" frameX="-10" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0013" x="284" y="395" width="284" height="395" frameX="-10" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0014" x="284" y="395" width="284" height="395" frameX="-10" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0015" x="284" y="395" width="284" height="395" frameX="-10" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0016" x="284" y="395" width="284" height="395" frameX="-10" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0017" x="284" y="395" width="284" height="395" frameX="-10" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0018" x="284" y="395" width="284" height="395" frameX="-10" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0019" x="284" y="395" width="284" height="395" frameX="-10" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0020" x="284" y="395" width="284" height="395" frameX="-10" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0021" x="284" y="395" width="284" height="395" frameX="-10" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0022" x="284" y="395" width="284" height="395" frameX="-10" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0023" x="284" y="395" width="284" height="395" frameX="-10" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0024" x="284" y="395" width="284" height="395" frameX="-10" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0025" x="284" y="395" width="284" height="395" frameX="-10" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0026" x="284" y="395" width="284" height="395" frameX="-10" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0027" x="284" y="395" width="284" height="395" frameX="-10" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0028" x="284" y="395" width="284" height="395" frameX="-10" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left0029" x="284" y="395" width="284" height="395" frameX="-10" frameY="0" frameWidth="294" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left Miss0000" x="0" y="0" width="288" height="395" frameX="0" frameY="-1" frameWidth="288" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left Miss0001" x="0" y="0" width="288" height="395" frameX="0" frameY="-1" frameWidth="288" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left Miss0002" x="703" y="1205" width="232" height="395" frameX="-6" frameY="0" frameWidth="288" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left Miss0003" x="703" y="1205" width="232" height="395" frameX="-6" frameY="0" frameWidth="288" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left Miss0004" x="703" y="1205" width="232" height="395" frameX="-6" frameY="0" frameWidth="288" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left Miss0005" x="703" y="1205" width="232" height="395" frameX="-6" frameY="0" frameWidth="288" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left Miss0006" x="703" y="1205" width="232" height="395" frameX="-6" frameY="0" frameWidth="288" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left Miss0007" x="703" y="1205" width="232" height="395" frameX="-6" frameY="0" frameWidth="288" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left Miss0008" x="703" y="1205" width="232" height="395" frameX="-6" frameY="0" frameWidth="288" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left Miss0009" x="703" y="1205" width="232" height="395" frameX="-6" frameY="0" frameWidth="288" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left Miss0010" x="703" y="1205" width="232" height="395" frameX="-6" frameY="0" frameWidth="288" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left Miss0011" x="703" y="1205" width="232" height="395" frameX="-6" frameY="0" frameWidth="288" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left Miss0012" x="703" y="1205" width="232" height="395" frameX="-6" frameY="0" frameWidth="288" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left Miss0013" x="703" y="1205" width="232" height="395" frameX="-6" frameY="0" frameWidth="288" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left Miss0014" x="703" y="1205" width="232" height="395" frameX="-6" frameY="0" frameWidth="288" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left Miss0015" x="703" y="1205" width="232" height="395" frameX="-6" frameY="0" frameWidth="288" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left Miss0016" x="703" y="1205" width="232" height="395" frameX="-6" frameY="0" frameWidth="288" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left Miss0017" x="703" y="1205" width="232" height="395" frameX="-6" frameY="0" frameWidth="288" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left Miss0018" x="703" y="1205" width="232" height="395" frameX="-6" frameY="0" frameWidth="288" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left Miss0019" x="703" y="1205" width="232" height="395" frameX="-6" frameY="0" frameWidth="288" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left Miss0020" x="703" y="1205" width="232" height="395" frameX="-6" frameY="0" frameWidth="288" frameHeight="395"/>
+  <SubTexture name="EX TeaYai left Miss0021" x="703" y="1205" width="232" height="395" frameX="-6" frameY="0" frameWidth="288" frameHeight="395"/>
+  <SubTexture name="EX TeaYai right0000" x="0" y="1613" width="170" height="386" frameX="-6" frameY="-3" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0001" x="0" y="1613" width="170" height="386" frameX="-6" frameY="-3" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0002" x="1870" y="776" width="173" height="388" frameX="-3" frameY="-1" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0003" x="1870" y="776" width="173" height="388" frameX="-3" frameY="-1" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0004" x="1870" y="388" width="174" height="388" frameX="-2" frameY="-1" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0005" x="1870" y="388" width="174" height="388" frameX="-2" frameY="-1" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0006" x="1870" y="0" width="175" height="388" frameX="-1" frameY="-1" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0007" x="1870" y="0" width="175" height="388" frameX="-1" frameY="-1" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0008" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0009" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0010" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0011" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0012" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0013" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0014" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0015" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0016" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0017" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0018" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0019" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0020" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0021" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0022" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0023" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0024" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0025" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0026" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0027" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0028" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0029" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0030" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0031" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0032" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0033" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right0034" x="1633" y="1167" width="176" height="389" frameX="0" frameY="0" frameWidth="176" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0000" x="1870" y="1164" width="170" height="386" frameX="0" frameY="-3" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0001" x="1870" y="1164" width="170" height="386" frameX="0" frameY="-3" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0002" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0003" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0004" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0005" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0006" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0007" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0008" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0009" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0010" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0011" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0012" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0013" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0014" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0015" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0016" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0017" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0018" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0019" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0020" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0021" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0022" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0023" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0024" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0025" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0026" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0027" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0028" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0029" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0030" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0031" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0032" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0033" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai right cMiss0034" x="2045" y="0" width="150" height="389" frameX="-20" frameY="0" frameWidth="170" frameHeight="389"/>
+  <SubTexture name="EX TeaYai up0000" x="858" y="0" width="258" height="419" frameX="-1" frameY="0" frameWidth="258" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0001" x="858" y="0" width="258" height="419" frameX="-1" frameY="0" frameWidth="258" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0002" x="1375" y="0" width="258" height="416" frameX="0" frameY="-4" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0003" x="1375" y="0" width="258" height="416" frameX="0" frameY="-4" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0004" x="1116" y="0" width="259" height="415" frameX="0" frameY="-5" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0005" x="1116" y="0" width="259" height="415" frameX="0" frameY="-5" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0006" x="0" y="790" width="259" height="415" frameX="0" frameY="-6" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0007" x="0" y="790" width="259" height="415" frameX="0" frameY="-6" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0008" x="518" y="790" width="259" height="414" frameX="0" frameY="-7" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0009" x="518" y="790" width="259" height="414" frameX="0" frameY="-7" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0010" x="259" y="790" width="259" height="414" frameX="0" frameY="-7" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0011" x="259" y="790" width="259" height="414" frameX="0" frameY="-7" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0012" x="259" y="790" width="259" height="414" frameX="0" frameY="-7" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0013" x="259" y="790" width="259" height="414" frameX="0" frameY="-7" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0014" x="259" y="790" width="259" height="414" frameX="0" frameY="-7" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0015" x="259" y="790" width="259" height="414" frameX="0" frameY="-7" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0016" x="259" y="790" width="259" height="414" frameX="0" frameY="-7" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0017" x="259" y="790" width="259" height="414" frameX="0" frameY="-7" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0018" x="259" y="790" width="259" height="414" frameX="0" frameY="-7" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0019" x="259" y="790" width="259" height="414" frameX="0" frameY="-7" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0020" x="259" y="790" width="259" height="414" frameX="0" frameY="-7" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0021" x="259" y="790" width="259" height="414" frameX="0" frameY="-7" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0022" x="259" y="790" width="259" height="414" frameX="0" frameY="-7" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0023" x="259" y="790" width="259" height="414" frameX="0" frameY="-7" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0024" x="259" y="790" width="259" height="414" frameX="0" frameY="-7" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0025" x="259" y="790" width="259" height="414" frameX="0" frameY="-7" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0026" x="259" y="790" width="259" height="414" frameX="0" frameY="-7" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0027" x="259" y="790" width="259" height="414" frameX="0" frameY="-7" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0028" x="259" y="790" width="259" height="414" frameX="0" frameY="-7" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up0029" x="259" y="790" width="259" height="414" frameX="0" frameY="-7" frameWidth="259" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up Miss0000" x="858" y="0" width="258" height="419" frameX="-1" frameY="0" frameWidth="258" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up Miss0001" x="858" y="0" width="258" height="419" frameX="-1" frameY="0" frameWidth="258" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up Miss0002" x="1633" y="377" width="195" height="413" frameX="0" frameY="-7" frameWidth="258" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up Miss0003" x="1633" y="377" width="195" height="413" frameX="0" frameY="-7" frameWidth="258" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up Miss0004" x="1633" y="377" width="195" height="413" frameX="0" frameY="-7" frameWidth="258" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up Miss0005" x="1633" y="377" width="195" height="413" frameX="0" frameY="-7" frameWidth="258" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up Miss0006" x="1633" y="377" width="195" height="413" frameX="0" frameY="-7" frameWidth="258" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up Miss0007" x="1633" y="377" width="195" height="413" frameX="0" frameY="-7" frameWidth="258" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up Miss0008" x="1633" y="377" width="195" height="413" frameX="0" frameY="-7" frameWidth="258" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up Miss0009" x="1633" y="377" width="195" height="413" frameX="0" frameY="-7" frameWidth="258" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up Miss0010" x="1633" y="377" width="195" height="413" frameX="0" frameY="-7" frameWidth="258" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up Miss0011" x="1633" y="377" width="195" height="413" frameX="0" frameY="-7" frameWidth="258" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up Miss0012" x="1633" y="377" width="195" height="413" frameX="0" frameY="-7" frameWidth="258" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up Miss0013" x="1633" y="377" width="195" height="413" frameX="0" frameY="-7" frameWidth="258" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up Miss0014" x="1633" y="377" width="195" height="413" frameX="0" frameY="-7" frameWidth="258" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up Miss0015" x="1633" y="377" width="195" height="413" frameX="0" frameY="-7" frameWidth="258" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up Miss0016" x="1633" y="377" width="195" height="413" frameX="0" frameY="-7" frameWidth="258" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up Miss0017" x="1633" y="377" width="195" height="413" frameX="0" frameY="-7" frameWidth="258" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up Miss0018" x="1633" y="377" width="195" height="413" frameX="0" frameY="-7" frameWidth="258" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up Miss0019" x="1633" y="377" width="195" height="413" frameX="0" frameY="-7" frameWidth="258" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up Miss0020" x="1633" y="377" width="195" height="413" frameX="0" frameY="-7" frameWidth="258" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up Miss0021" x="1633" y="377" width="195" height="413" frameX="0" frameY="-7" frameWidth="258" frameHeight="421"/>
+  <SubTexture name="EX TeaYai up Miss0022" x="1633" y="377" width="195" height="413" frameX="0" frameY="-7" frameWidth="258" frameHeight="421"/>
+</TextureAtlas>

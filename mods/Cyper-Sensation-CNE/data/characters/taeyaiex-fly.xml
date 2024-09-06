@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="90" icon="taeyai" y="210" isGF="false" scale="2" camy="200" flipX="true" isPlayer="true" holdTime="6.1" sprite="taeyaiex-fly" notesprite="taeyai">
+	<anim x="86" loop="false" y="-26" fps="24" anim="EX TeaYai Fly right MISS0" name="singRIGHTmiss"/>
+	<anim x="-144" loop="false" y="-38" fps="24" anim="EX TeaYai Fly left0" name="singLEFT"/>
+	<anim x="15" loop="false" y="24" fps="24" anim="EX TeaYai Fly up MISS0" name="singUPmiss"/>
+	<anim x="-21" loop="false" y="-62" fps="24" anim="EX TeaYai Fly down0" name="singDOWN"/>
+	<anim x="54" loop="false" y="-28" fps="24" anim="EX TeaYai Fly right0" name="singRIGHT"/>
+	<anim x="31" loop="false" y="24" fps="24" anim="EX TeaYai Fly up0" name="singUP"/>
+	<anim x="11" loop="false" y="-37" fps="24" anim="EX TeaYai Fly left MISS0" name="singLEFTmiss"/>
+	<anim x="50" loop="false" y="-63" fps="24" anim="EX TeaYai Fly down MISS0" name="singDOWNmiss"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="EX TeaYai Fly idle0" name="idle"/>
+</character>

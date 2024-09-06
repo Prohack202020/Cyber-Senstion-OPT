@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="40" icon="nonsense" camx="-10" y="200" isGF="false" scale="2.1" camy="110" isPlayer="false" holdTime="6.1" sprite="nonsense-ex" notesprite="nonsense">
+  <anim x="0" loop="false" y="0" fps="24" anim="Idle" indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13" name="danceLeft"/>
+  <anim x="0" loop="false" y="0" fps="24" anim="Idle" indices="14,15,16,17,18,19,20,21,22,23,24,25,26,27" name="danceRight"/>
+  <anim x="-30" loop="false" y="55" fps="24" anim="NoteLeft" name="singLEFT"/>
+  <anim x="2" loop="false" y="65" fps="24" anim="NoteUp" name="singUP"/>
+  <anim x="-40" loop="false" y="-60" fps="24" anim="NoteDown" name="singDOWN"/>
+  <anim x="-30" loop="false" y="-30" fps="24" anim="NoteRight" name="singRIGHT"/>
+</character>

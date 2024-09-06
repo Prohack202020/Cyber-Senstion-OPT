@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-410" icon="shadow taeyai" y="-290" isGF="false" scale="2.1" isPlayer="false" holdTime="6.1" sprite="shadow taeyai" notesprite="taeyai">
+	<anim x="0" loop="false" y="0" fps="24" anim="shadow taeyai idle0" name="idle"/>
+	<anim x="13" loop="false" y="59" fps="24" anim="shadow taeyai up0" name="singUP"/>
+	<anim x="52" loop="false" y="10" fps="24" anim="shadow taeyai left0" name="singLEFT"/>
+	<anim x="52" loop="false" y="5" fps="24" anim="shadow taeyai down0" name="singDOWN"/>
+	<anim x="-102" loop="false" y="-12" fps="24" anim="shadow taeyai right0" name="singRIGHT"/>
+</character>

@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.4" name="tans" folder="stages/tans">
+    <sprite name="bg" x="510" y="550" sprite="bg" scroll="1" scale="3.4"/>
+
+
+
+    <sprite name="light" x="510" y="550" sprite="light" scroll="1" scale="3.4"/>
+
+    <girlfriend />
+    <boyfriend x="355" y="785" />
+    <dad x="1915" y="750" />
+     <sprite name="front" x="510" y="550" sprite="front" scroll="0.9" scale="2.3"/>
+</stage>>>>

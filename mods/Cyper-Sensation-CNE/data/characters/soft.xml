@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="90" icon="face" y="80" isGF="false" scale="2.1" camy="250" isPlayer="false" holdTime="6.1" sprite="SoftTae">
+	<anim x="61" loop="false" y="-87" fps="24" anim="SoftTaeLeft0" name="singLEFT"/>
+	<anim x="-17" loop="false" y="-215" fps="24" anim="SoftTaeDown0" name="singDOWN"/>
+	<anim x="21" loop="false" y="-51" fps="24" anim="SoftTaeUp0" name="singUP"/>
+	<anim x="-32" loop="false" y="-78" fps="24" anim="SoftTaeRight0" name="singRIGHT"/>
+	<anim x="0" loop="false" y="-80" fps="24" anim="SoftTaeIdle0" name="idle"/>
+</character>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fire.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="FIREEE instance 0000" x="0" y="0" width="2010" height="430" frameX="-19" frameY="-96" frameWidth="2044" frameHeight="567"/>
+	<SubTexture name="FIREEE instance 0001" x="0" y="0" width="2010" height="430" frameX="-19" frameY="-96" frameWidth="2044" frameHeight="567"/>
+	<SubTexture name="FIREEE instance 0002" x="0" y="0" width="2010" height="430" frameX="-19" frameY="-96" frameWidth="2044" frameHeight="567"/>
+	<SubTexture name="FIREEE instance 0003" x="0" y="861" width="1998" height="425" frameX="-29" frameY="-100" frameWidth="2044" frameHeight="567"/>
+	<SubTexture name="FIREEE instance 0004" x="0" y="861" width="1998" height="425" frameX="-29" frameY="-100" frameWidth="2044" frameHeight="567"/>
+	<SubTexture name="FIREEE instance 0005" x="0" y="861" width="1998" height="425" frameX="-29" frameY="-100" frameWidth="2044" frameHeight="567"/>
+	<SubTexture name="FIREEE instance 0006" x="2010" y="425" width="1997" height="428" frameX="-32" frameY="-98" frameWidth="2044" frameHeight="567"/>
+	<SubTexture name="FIREEE instance 0007" x="2010" y="425" width="1997" height="428" frameX="-32" frameY="-98" frameWidth="2044" frameHeight="567"/>
+	<SubTexture name="FIREEE instance 0008" x="2010" y="425" width="1997" height="428" frameX="-32" frameY="-98" frameWidth="2044" frameHeight="567"/>
+	<SubTexture name="FIREEE instance 0009" x="0" y="430" width="2005" height="431" frameX="-24" frameY="-94" frameWidth="2044" frameHeight="567"/>
+	<SubTexture name="FIREEE instance 0010" x="0" y="430" width="2005" height="431" frameX="-24" frameY="-94" frameWidth="2044" frameHeight="567"/>
+	<SubTexture name="FIREEE instance 0011" x="0" y="430" width="2005" height="431" frameX="-24" frameY="-94" frameWidth="2044" frameHeight="567"/>
+	<SubTexture name="FIREEE instance 0012" x="2010" y="0" width="2015" height="425" frameX="-15" frameY="-100" frameWidth="2044" frameHeight="567"/>
+	<SubTexture name="FIREEE instance 0013" x="2010" y="0" width="2015" height="425" frameX="-15" frameY="-100" frameWidth="2044" frameHeight="567"/>
+	<SubTexture name="FIREEE instance 0014" x="2010" y="0" width="2015" height="425" frameX="-15" frameY="-100" frameWidth="2044" frameHeight="567"/>
+</TextureAtlas>

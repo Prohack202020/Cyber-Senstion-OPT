@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character x="90" icon="taeyai" y="210" isGF="false" scale="2.1" camy="190" isPlayer="true" holdTime="6.1" sprite="extaliaded">
+	<anim x="2" loop="false" y="-241" fps="24" anim="ExTaeYai dead loop 0" name="deathLoop"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="EXTaeYai dead0" name="firstDeath"/>
+	<anim x="52" loop="false" y="-215" fps="24" anim="EXTaeYai dead confirm0" name="deathConfirm"/>
+</character>

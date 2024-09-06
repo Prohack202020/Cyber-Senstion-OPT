@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flame.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="frame_0000" x="0" y="835" width="1177" height="835" frameX="0" frameY="0" frameWidth="1177" frameHeight="835"/>
+	<SubTexture name="frame_0001" x="2354" y="0" width="1177" height="835" frameX="0" frameY="0" frameWidth="1177" frameHeight="835"/>
+	<SubTexture name="frame_0002" x="1177" y="1670" width="1177" height="835" frameX="0" frameY="0" frameWidth="1177" frameHeight="835"/>
+	<SubTexture name="frame_0003" x="2354" y="1670" width="1177" height="835" frameX="0" frameY="0" frameWidth="1177" frameHeight="835"/>
+	<SubTexture name="frame_0004" x="0" y="0" width="1177" height="835" frameX="0" frameY="0" frameWidth="1177" frameHeight="835"/>
+	<SubTexture name="frame_0005" x="1177" y="0" width="1177" height="835" frameX="0" frameY="0" frameWidth="1177" frameHeight="835"/>
+	<SubTexture name="frame_0006" x="1177" y="835" width="1177" height="835" frameX="0" frameY="0" frameWidth="1177" frameHeight="835"/>
+	<SubTexture name="frame_0007" x="0" y="1670" width="1177" height="835" frameX="0" frameY="0" frameWidth="1177" frameHeight="835"/>
+	<SubTexture name="frame_0008" x="0" y="2505" width="1177" height="835" frameX="0" frameY="0" frameWidth="1177" frameHeight="835"/>
+	<SubTexture name="frame_0009" x="1177" y="2505" width="1177" height="835" frameX="0" frameY="0" frameWidth="1177" frameHeight="835"/>
+	<SubTexture name="frame_0010" x="2354" y="835" width="1177" height="835" frameX="0" frameY="0" frameWidth="1177" frameHeight="835"/>
+	<SubTexture name="frame_0011" x="2354" y="2505" width="1177" height="835" frameX="0" frameY="0" frameWidth="1177" frameHeight="835"/>
+</TextureAtlas>

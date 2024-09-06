@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="10" icon="shini" y="100" isGF="false" scale="1.8" camy="130" isPlayer="false" holdTime="6.1" sprite="shini">
+	<anim x="0" loop="false" y="0" fps="24" anim="shini idle" name="idle"/>
+	<anim x="-4" loop="false" y="-30" fps="24" anim="shini down" name="singDOWN"/>
+	<anim x="18" loop="false" y="4" fps="24" anim="shini left" name="singLEFT"/>
+	<anim x="-34" loop="false" y="25" fps="24" anim="shini up" name="singUP"/>
+	<anim x="-8" loop="false" y="0" fps="24" anim="shini right" name="singRIGHT"/>
+</character>

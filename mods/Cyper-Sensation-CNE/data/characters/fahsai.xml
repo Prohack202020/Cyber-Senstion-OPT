@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="90" icon="fah" camx="100" y="290" isGF="false" scale="2.1" camy="240" isPlayer="false" holdTime="6.1" sprite="fahsai">
+	<anim x="0" loop="false" y="0" fps="24" anim="f right" name="singRIGHT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="f left" name="singLEFT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="f up" name="singUP"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="f down" name="singDOWN"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="f idle" name="idle"/>
+</character>

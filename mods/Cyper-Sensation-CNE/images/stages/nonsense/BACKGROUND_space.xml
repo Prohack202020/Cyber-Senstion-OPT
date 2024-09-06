@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BACKGROUND_space.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Wall Broken anim0000" x="3180" y="0" width="1590" height="823" frameX="0" frameY="0" frameWidth="1590" frameHeight="823"/>
+	<SubTexture name="Wall Broken anim0001" x="3180" y="0" width="1590" height="823" frameX="0" frameY="0" frameWidth="1590" frameHeight="823"/>
+	<SubTexture name="Wall Broken anim0002" x="1590" y="1646" width="1590" height="823" frameX="0" frameY="0" frameWidth="1590" frameHeight="823"/>
+	<SubTexture name="Wall Broken anim0003" x="1590" y="1646" width="1590" height="823" frameX="0" frameY="0" frameWidth="1590" frameHeight="823"/>
+	<SubTexture name="Wall Broken anim0004" x="3180" y="823" width="1590" height="823" frameX="0" frameY="0" frameWidth="1590" frameHeight="823"/>
+	<SubTexture name="Wall Broken anim0005" x="3180" y="1646" width="1590" height="823" frameX="0" frameY="0" frameWidth="1590" frameHeight="823"/>
+	<SubTexture name="Wall Broken anim0006" x="0" y="823" width="1590" height="823" frameX="0" frameY="0" frameWidth="1590" frameHeight="823"/>
+	<SubTexture name="Wall Broken anim0007" x="1590" y="823" width="1590" height="823" frameX="0" frameY="0" frameWidth="1590" frameHeight="823"/>
+	<SubTexture name="Wall Broken anim0008" x="0" y="2469" width="1590" height="823" frameX="0" frameY="0" frameWidth="1590" frameHeight="823"/>
+	<SubTexture name="Wall Broken anim0009" x="0" y="1646" width="1590" height="823" frameX="0" frameY="0" frameWidth="1590" frameHeight="823"/>
+	<SubTexture name="Wall Broken anim0010" x="0" y="0" width="1590" height="823" frameX="0" frameY="0" frameWidth="1590" frameHeight="823"/>
+	<SubTexture name="Wall Broken anim0011" x="1590" y="0" width="1590" height="823" frameX="0" frameY="0" frameWidth="1590" frameHeight="823"/>
+	<SubTexture name="Wall Broken anim0012" x="1590" y="0" width="1590" height="823" frameX="0" frameY="0" frameWidth="1590" frameHeight="823"/>
+	<SubTexture name="Wall Broken anim0013" x="0" y="0" width="1590" height="823" frameX="0" frameY="0" frameWidth="1590" frameHeight="823"/>
+	<SubTexture name="Wall Broken anim0014" x="0" y="1646" width="1590" height="823" frameX="0" frameY="0" frameWidth="1590" frameHeight="823"/>
+	<SubTexture name="Wall Broken anim0015" x="1590" y="823" width="1590" height="823" frameX="0" frameY="0" frameWidth="1590" frameHeight="823"/>
+	<SubTexture name="Wall Broken anim0016" x="0" y="823" width="1590" height="823" frameX="0" frameY="0" frameWidth="1590" frameHeight="823"/>
+	<SubTexture name="Wall Broken anim0017" x="3180" y="1646" width="1590" height="823" frameX="0" frameY="0" frameWidth="1590" frameHeight="823"/>
+	<SubTexture name="Wall Broken anim0018" x="3180" y="823" width="1590" height="823" frameX="0" frameY="0" frameWidth="1590" frameHeight="823"/>
+	<SubTexture name="Wall Broken anim0019" x="1590" y="1646" width="1590" height="823" frameX="0" frameY="0" frameWidth="1590" frameHeight="823"/>
+	<SubTexture name="Wall Broken anim0020" x="1590" y="1646" width="1590" height="823" frameX="0" frameY="0" frameWidth="1590" frameHeight="823"/>
+	<SubTexture name="Wall Broken anim0021" x="3180" y="0" width="1590" height="823" frameX="0" frameY="0" frameWidth="1590" frameHeight="823"/>
+	<SubTexture name="Wall Broken anim0022" x="3180" y="0" width="1590" height="823" frameX="0" frameY="0" frameWidth="1590" frameHeight="823"/>
+</TextureAtlas>

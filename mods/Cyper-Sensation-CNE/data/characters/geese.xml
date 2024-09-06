@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="90" icon="taeyai" y="210" isGF="false" scale="1.9" camy="110" isPlayer="false" holdTime="6.1" sprite="geese">
+	<anim x="-2" loop="false" y="10" fps="24" anim="Geese Up0" name="singUP"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="Geese IDLE0" name="idle"/>
+	<anim x="-20" loop="false" y="-4" fps="24" anim="Geese Left0" name="singLEFT"/>
+	<anim x="-30" loop="false" y="-33" fps="24" anim="Geese Right0" name="singRIGHT"/>
+	<anim x="1" loop="false" y="-91" fps="24" anim="Geese Down0" name="singDOWN"/>
+</character>

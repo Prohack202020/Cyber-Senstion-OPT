@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character x="90" icon="bfex" y="510" isGF="false" scale="2.1" camy="-60" flipX="true" isPlayer="true" sprite="bfex">
+	<anim x="-5" loop="false" y="0" fps="24" anim="bfEX idle" name="idle"/>
+	<anim x="-9" loop="false" y="4" fps="24" anim="bfEX left" name="singLEFT"/>
+	<anim x="-10" loop="false" y="-42" fps="24" anim="bfEX down" name="singDOWN"/>
+	<anim x="-36" loop="false" y="12" fps="24" anim="bfEX up" name="singUP"/>
+	<anim x="-44" loop="false" y="-5" fps="24" anim="bfEX right" name="singRIGHT"/>
+	<anim x="-4" loop="false" y="4" fps="24" anim="missbfEX left" name="singLEFTmiss"/>
+	<anim x="-9" loop="false" y="-53" fps="24" anim="missbfEX down" name="singDOWNmiss"/>
+	<anim x="-38" loop="false" y="19" fps="24" anim="missbfEX up" name="singUPmiss"/>
+	<anim x="-46" loop="false" y="-8" fps="24" anim="missbfEX right" name="singRIGHTmiss"/>
+	<anim x="8" loop="true" y="5" fps="24" anim="bfEX shock" name="shock"/>
+</character>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sense.png">
+  <!--Optimized by itsTomRoyale615-->
+  <SubTexture name="Sense Left0000" x="1540" y="0" width="168" height="335" frameX="-3" frameY="-3" frameWidth="172" frameHeight="338"/>
+  <SubTexture name="Sense Left0001" x="1368" y="344" width="172" height="337" frameX="0" frameY="-1" frameWidth="172" frameHeight="338"/>
+  <SubTexture name="Sense Left0002" x="545" y="686" width="168" height="337" frameX="-4" frameY="-1" frameWidth="172" frameHeight="338"/>
+  <SubTexture name="Sense Left0003" x="1708" y="670" width="166" height="337" frameX="-6" frameY="-1" frameWidth="172" frameHeight="338"/>
+  <SubTexture name="Sense Left0004" x="1708" y="333" width="166" height="337" frameX="-6" frameY="-1" frameWidth="172" frameHeight="338"/>
+  <SubTexture name="Sense Left0005" x="1540" y="1011" width="166" height="338" frameX="-6" frameY="0" frameWidth="172" frameHeight="338"/>
+  <SubTexture name="Sense Left0006" x="1540" y="673" width="166" height="338" frameX="-6" frameY="0" frameWidth="172" frameHeight="338"/>
+  <SubTexture name="Sense Left0007" x="1540" y="673" width="166" height="338" frameX="-6" frameY="0" frameWidth="172" frameHeight="338"/>
+  <SubTexture name="Sense Left0008" x="1540" y="673" width="166" height="338" frameX="-6" frameY="0" frameWidth="172" frameHeight="338"/>
+  <SubTexture name="Sense Left0009" x="1540" y="673" width="166" height="338" frameX="-6" frameY="0" frameWidth="172" frameHeight="338"/>
+  <SubTexture name="Sense Left0010" x="1540" y="673" width="166" height="338" frameX="-6" frameY="0" frameWidth="172" frameHeight="338"/>
+  <SubTexture name="Sense Left0011" x="1540" y="673" width="166" height="338" frameX="-6" frameY="0" frameWidth="172" frameHeight="338"/>
+  <SubTexture name="Sense Left0012" x="1540" y="673" width="166" height="338" frameX="-6" frameY="0" frameWidth="172" frameHeight="338"/>
+  <SubTexture name="Sense Left Sax0000" x="1876" y="1017" width="163" height="335" frameX="-3" frameY="-3" frameWidth="224" frameHeight="338"/>
+  <SubTexture name="Sense Left Sax0001" x="1368" y="681" width="170" height="337" frameX="0" frameY="-1" frameWidth="224" frameHeight="338"/>
+  <SubTexture name="Sense Left Sax0002" x="1876" y="680" width="163" height="337" frameX="-4" frameY="-1" frameWidth="224" frameHeight="338"/>
+  <SubTexture name="Sense Left Sax0003" x="2039" y="654" width="160" height="337" frameX="-5" frameY="-1" frameWidth="224" frameHeight="338"/>
+  <SubTexture name="Sense Left Sax0004" x="2039" y="654" width="160" height="337" frameX="-5" frameY="-1" frameWidth="224" frameHeight="338"/>
+  <SubTexture name="Sense Left Sax0005" x="2039" y="991" width="159" height="338" frameX="-5" frameY="0" frameWidth="224" frameHeight="338"/>
+  <SubTexture name="Sense Left Sax0006" x="2039" y="991" width="159" height="338" frameX="-5" frameY="0" frameWidth="224" frameHeight="338"/>
+  <SubTexture name="Sense Left Sax0007" x="2039" y="991" width="159" height="338" frameX="-5" frameY="0" frameWidth="224" frameHeight="338"/>
+  <SubTexture name="Sense Left Sax0008" x="2039" y="991" width="159" height="338" frameX="-5" frameY="0" frameWidth="224" frameHeight="338"/>
+  <SubTexture name="Sense Left Sax0009" x="2039" y="991" width="159" height="338" frameX="-5" frameY="0" frameWidth="224" frameHeight="338"/>
+  <SubTexture name="Sense Left Sax0010" x="2039" y="991" width="159" height="338" frameX="-5" frameY="0" frameWidth="224" frameHeight="338"/>
+  <SubTexture name="Sense Left Sax0011" x="2039" y="991" width="159" height="338" frameX="-5" frameY="0" frameWidth="224" frameHeight="338"/>
+  <SubTexture name="Sense Left Sax0012" x="2039" y="991" width="159" height="338" frameX="-5" frameY="0" frameWidth="224" frameHeight="338"/>
+  <SubTexture name="Sense Right0000" x="0" y="1361" width="170" height="331" frameX="0" frameY="-1" frameWidth="173" frameHeight="332"/>
+  <SubTexture name="Sense Right0001" x="523" y="350" width="171" height="331" frameX="-2" frameY="-1" frameWidth="173" frameHeight="332"/>
+  <SubTexture name="Sense Right0002" x="713" y="686" width="171" height="331" frameX="-2" frameY="-1" frameWidth="173" frameHeight="332"/>
+  <SubTexture name="Sense Right0003" x="1008" y="344" width="171" height="332" frameX="-3" frameY="0" frameWidth="173" frameHeight="332"/>
+  <SubTexture name="Sense Right0004" x="1189" y="695" width="171" height="332" frameX="-3" frameY="0" frameWidth="173" frameHeight="332"/>
+  <SubTexture name="Sense Right0005" x="0" y="1030" width="171" height="331" frameX="-3" frameY="-1" frameWidth="173" frameHeight="332"/>
+  <SubTexture name="Sense Right0006" x="884" y="686" width="171" height="331" frameX="-3" frameY="-1" frameWidth="173" frameHeight="332"/>
+  <SubTexture name="Sense Right0007" x="884" y="686" width="171" height="331" frameX="-3" frameY="-1" frameWidth="173" frameHeight="332"/>
+  <SubTexture name="Sense Right0008" x="884" y="686" width="171" height="331" frameX="-3" frameY="-1" frameWidth="173" frameHeight="332"/>
+  <SubTexture name="Sense Right0009" x="884" y="686" width="171" height="331" frameX="-3" frameY="-1" frameWidth="173" frameHeight="332"/>
+  <SubTexture name="Sense Right0010" x="884" y="686" width="171" height="331" frameX="-3" frameY="-1" frameWidth="173" frameHeight="332"/>
+  <SubTexture name="Sense Right0011" x="884" y="686" width="171" height="331" frameX="-3" frameY="-1" frameWidth="173" frameHeight="332"/>
+  <SubTexture name="Sense Right0012" x="884" y="686" width="171" height="331" frameX="-3" frameY="-1" frameWidth="173" frameHeight="332"/>
+  <SubTexture name="Sense Right sax0000" x="2204" y="990" width="138" height="331" frameX="-22" frameY="-1" frameWidth="222" frameHeight="332"/>
+  <SubTexture name="Sense Right sax0001" x="2204" y="659" width="138" height="331" frameX="-23" frameY="-1" frameWidth="222" frameHeight="332"/>
+  <SubTexture name="Sense Right sax0002" x="2204" y="1652" width="136" height="331" frameX="-23" frameY="-1" frameWidth="222" frameHeight="332"/>
+  <SubTexture name="Sense Right sax0003" x="2204" y="327" width="138" height="332" frameX="-23" frameY="0" frameWidth="222" frameHeight="332"/>
+  <SubTexture name="Sense Right sax0004" x="2204" y="327" width="138" height="332" frameX="-23" frameY="0" frameWidth="222" frameHeight="332"/>
+  <SubTexture name="Sense Right sax0005" x="2204" y="1321" width="138" height="331" frameX="-23" frameY="-1" frameWidth="222" frameHeight="332"/>
+  <SubTexture name="Sense Right sax0006" x="2204" y="1321" width="138" height="331" frameX="-23" frameY="-1" frameWidth="222" frameHeight="332"/>
+  <SubTexture name="Sense Right sax0007" x="2204" y="1321" width="138" height="331" frameX="-23" frameY="-1" frameWidth="222" frameHeight="332"/>
+  <SubTexture name="Sense Right sax0008" x="2204" y="1321" width="138" height="331" frameX="-23" frameY="-1" frameWidth="222" frameHeight="332"/>
+  <SubTexture name="Sense Right sax0009" x="2204" y="1321" width="138" height="331" frameX="-23" frameY="-1" frameWidth="222" frameHeight="332"/>
+  <SubTexture name="Sense Right sax0010" x="2204" y="1321" width="138" height="331" frameX="-23" frameY="-1" frameWidth="222" frameHeight="332"/>
+  <SubTexture name="Sense Right sax0011" x="2204" y="1321" width="138" height="331" frameX="-23" frameY="-1" frameWidth="222" frameHeight="332"/>
+  <SubTexture name="Sense Right sax0012" x="2204" y="1321" width="138" height="331" frameX="-23" frameY="-1" frameWidth="222" frameHeight="332"/>
+  <SubTexture name="Sense Up0000" x="1189" y="345" width="171" height="350" frameX="-12" frameY="0" frameWidth="183" frameHeight="350"/>
+  <SubTexture name="Sense Up0001" x="1368" y="0" width="172" height="344" frameX="-12" frameY="-6" frameWidth="183" frameHeight="350"/>
+  <SubTexture name="Sense Up0002" x="363" y="686" width="182" height="341" frameX="0" frameY="-9" frameWidth="183" frameHeight="350"/>
+  <SubTexture name="Sense Up0003" x="768" y="344" width="182" height="342" frameX="0" frameY="-8" frameWidth="183" frameHeight="350"/>
+  <SubTexture name="Sense Up0004" x="181" y="686" width="182" height="342" frameX="0" frameY="-8" frameWidth="183" frameHeight="350"/>
+  <SubTexture name="Sense Up0005" x="0" y="686" width="181" height="344" frameX="-2" frameY="-6" frameWidth="183" frameHeight="350"/>
+  <SubTexture name="Sense Up0006" x="1008" y="0" width="181" height="344" frameX="-2" frameY="-6" frameWidth="183" frameHeight="350"/>
+  <SubTexture name="Sense Up0007" x="1189" y="0" width="179" height="345" frameX="-3" frameY="-5" frameWidth="183" frameHeight="350"/>
+  <SubTexture name="Sense Up0008" x="1189" y="0" width="179" height="345" frameX="-3" frameY="-5" frameWidth="183" frameHeight="350"/>
+  <SubTexture name="Sense Up0009" x="1189" y="0" width="179" height="345" frameX="-3" frameY="-5" frameWidth="183" frameHeight="350"/>
+  <SubTexture name="Sense Up0010" x="1189" y="0" width="179" height="345" frameX="-3" frameY="-5" frameWidth="183" frameHeight="350"/>
+  <SubTexture name="Sense Up Sax0000" x="523" y="0" width="245" height="350" frameX="-12" frameY="0" frameWidth="277" frameHeight="350"/>
+  <SubTexture name="Sense Up Sax0001" x="768" y="0" width="240" height="344" frameX="-12" frameY="-6" frameWidth="277" frameHeight="350"/>
+  <SubTexture name="Sense Up Sax0002" x="262" y="0" width="261" height="341" frameX="0" frameY="-9" frameWidth="277" frameHeight="350"/>
+  <SubTexture name="Sense Up Sax0003" x="0" y="0" width="262" height="342" frameX="0" frameY="-8" frameWidth="277" frameHeight="350"/>
+  <SubTexture name="Sense Up Sax0004" x="0" y="0" width="262" height="342" frameX="0" frameY="-8" frameWidth="277" frameHeight="350"/>
+  <SubTexture name="Sense Up Sax0005" x="0" y="342" width="259" height="344" frameX="-2" frameY="-6" frameWidth="277" frameHeight="350"/>
+  <SubTexture name="Sense Up Sax0006" x="0" y="342" width="259" height="344" frameX="-2" frameY="-6" frameWidth="277" frameHeight="350"/>
+  <SubTexture name="Sense Up Sax0007" x="262" y="341" width="257" height="345" frameX="-3" frameY="-5" frameWidth="277" frameHeight="350"/>
+  <SubTexture name="Sense Up Sax0008" x="262" y="341" width="257" height="345" frameX="-3" frameY="-5" frameWidth="277" frameHeight="350"/>
+  <SubTexture name="Sense Up Sax0009" x="262" y="341" width="257" height="345" frameX="-3" frameY="-5" frameWidth="277" frameHeight="350"/>
+  <SubTexture name="Sense Up Sax0010" x="262" y="341" width="257" height="345" frameX="-3" frameY="-5" frameWidth="277" frameHeight="350"/>
+  <SubTexture name="Sense down0000" x="171" y="1030" width="175" height="323" frameX="0" frameY="-3" frameWidth="176" frameHeight="327"/>
+  <SubTexture name="Sense down0001" x="346" y="1030" width="174" height="323" frameX="-2" frameY="-3" frameWidth="176" frameHeight="327"/>
+  <SubTexture name="Sense down0002" x="170" y="1361" width="172" height="324" frameX="-3" frameY="-3" frameWidth="176" frameHeight="327"/>
+  <SubTexture name="Sense down0003" x="167" y="1692" width="167" height="326" frameX="-4" frameY="-1" frameWidth="176" frameHeight="327"/>
+  <SubTexture name="Sense down0004" x="0" y="1692" width="167" height="326" frameX="-4" frameY="-1" frameWidth="176" frameHeight="327"/>
+  <SubTexture name="Sense down0005" x="2039" y="327" width="165" height="327" frameX="-4" frameY="0" frameWidth="176" frameHeight="327"/>
+  <SubTexture name="Sense down0006" x="2039" y="0" width="165" height="327" frameX="-4" frameY="0" frameWidth="176" frameHeight="327"/>
+  <SubTexture name="Sense down0007" x="2039" y="0" width="165" height="327" frameX="-4" frameY="0" frameWidth="176" frameHeight="327"/>
+  <SubTexture name="Sense down0008" x="2039" y="0" width="165" height="327" frameX="-4" frameY="0" frameWidth="176" frameHeight="327"/>
+  <SubTexture name="Sense down0009" x="2039" y="0" width="165" height="327" frameX="-4" frameY="0" frameWidth="176" frameHeight="327"/>
+  <SubTexture name="Sense down0010" x="2039" y="0" width="165" height="327" frameX="-4" frameY="0" frameWidth="176" frameHeight="327"/>
+  <SubTexture name="Sense down0011" x="2039" y="0" width="165" height="327" frameX="-4" frameY="0" frameWidth="176" frameHeight="327"/>
+  <SubTexture name="Sense down0012" x="2039" y="0" width="165" height="327" frameX="-4" frameY="0" frameWidth="176" frameHeight="327"/>
+  <SubTexture name="Sense down sax0000" x="520" y="1030" width="151" height="323" frameX="-37" frameY="-3" frameWidth="204" frameHeight="327"/>
+  <SubTexture name="Sense down sax0001" x="2039" y="1329" width="153" height="323" frameX="-36" frameY="-3" frameWidth="204" frameHeight="327"/>
+  <SubTexture name="Sense down sax0002" x="2039" y="1652" width="151" height="324" frameX="-37" frameY="-3" frameWidth="204" frameHeight="327"/>
+  <SubTexture name="Sense down sax0003" x="334" y="1692" width="147" height="326" frameX="-37" frameY="-1" frameWidth="204" frameHeight="327"/>
+  <SubTexture name="Sense down sax0004" x="334" y="1692" width="147" height="326" frameX="-37" frameY="-1" frameWidth="204" frameHeight="327"/>
+  <SubTexture name="Sense down sax0005" x="2204" y="0" width="146" height="327" frameX="-37" frameY="0" frameWidth="204" frameHeight="327"/>
+  <SubTexture name="Sense down sax0006" x="2204" y="0" width="146" height="327" frameX="-37" frameY="0" frameWidth="204" frameHeight="327"/>
+  <SubTexture name="Sense down sax0007" x="2204" y="0" width="146" height="327" frameX="-37" frameY="0" frameWidth="204" frameHeight="327"/>
+  <SubTexture name="Sense down sax0008" x="2204" y="0" width="146" height="327" frameX="-37" frameY="0" frameWidth="204" frameHeight="327"/>
+  <SubTexture name="Sense down sax0009" x="2204" y="0" width="146" height="327" frameX="-37" frameY="0" frameWidth="204" frameHeight="327"/>
+  <SubTexture name="Sense down sax0010" x="2204" y="0" width="146" height="327" frameX="-37" frameY="0" frameWidth="204" frameHeight="327"/>
+  <SubTexture name="Sense down sax0011" x="2204" y="0" width="146" height="327" frameX="-37" frameY="0" frameWidth="204" frameHeight="327"/>
+  <SubTexture name="Sense down sax0012" x="2204" y="0" width="146" height="327" frameX="-37" frameY="0" frameWidth="204" frameHeight="327"/>
+  <SubTexture name="SenseIdle0000" x="1876" y="1352" width="163" height="332" frameX="-10" frameY="-7" frameWidth="175" frameHeight="340"/>
+  <SubTexture name="SenseIdle0001" x="1876" y="1352" width="163" height="332" frameX="-10" frameY="-7" frameWidth="175" frameHeight="340"/>
+  <SubTexture name="SenseIdle0002" x="1708" y="1007" width="168" height="331" frameX="0" frameY="-8" frameWidth="175" frameHeight="340"/>
+  <SubTexture name="SenseIdle0003" x="1708" y="1007" width="168" height="331" frameX="0" frameY="-8" frameWidth="175" frameHeight="340"/>
+  <SubTexture name="SenseIdle0004" x="1708" y="0" width="168" height="333" frameX="0" frameY="-6" frameWidth="175" frameHeight="340"/>
+  <SubTexture name="SenseIdle0005" x="1708" y="0" width="168" height="333" frameX="0" frameY="-6" frameWidth="175" frameHeight="340"/>
+  <SubTexture name="SenseIdle0006" x="1540" y="335" width="166" height="338" frameX="-3" frameY="-2" frameWidth="175" frameHeight="340"/>
+  <SubTexture name="SenseIdle0007" x="1540" y="335" width="166" height="338" frameX="-3" frameY="-2" frameWidth="175" frameHeight="340"/>
+  <SubTexture name="SenseIdle0008" x="1708" y="1338" width="163" height="340" frameX="-9" frameY="0" frameWidth="175" frameHeight="340"/>
+  <SubTexture name="SenseIdle0009" x="1708" y="1338" width="163" height="340" frameX="-9" frameY="0" frameWidth="175" frameHeight="340"/>
+  <SubTexture name="SenseIdle0010" x="1876" y="0" width="163" height="340" frameX="-12" frameY="0" frameWidth="175" frameHeight="340"/>
+  <SubTexture name="SenseIdle0011" x="1876" y="0" width="163" height="340" frameX="-12" frameY="0" frameWidth="175" frameHeight="340"/>
+  <SubTexture name="SenseIdle0012" x="1876" y="340" width="162" height="340" frameX="-13" frameY="0" frameWidth="175" frameHeight="340"/>
+  <SubTexture name="SenseIdle0013" x="1876" y="340" width="162" height="340" frameX="-13" frameY="0" frameWidth="175" frameHeight="340"/>
+  <SubTexture name="SenseIdle0014" x="1876" y="340" width="162" height="340" frameX="-13" frameY="0" frameWidth="175" frameHeight="340"/>
+</TextureAtlas>

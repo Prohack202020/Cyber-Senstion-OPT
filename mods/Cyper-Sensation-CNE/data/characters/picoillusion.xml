@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="70" icon="pico" camx="170" y="400" isGF="false" scale="2.1" camy="180" isPlayer="false" sprite="picoillusion">
+	<anim x="0" loop="false" y="0" fps="24" anim="Pico Idle Dance" name="idle"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="Pico left" name="singLEFT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="Pico right" name="singRIGHT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="Pico up" name="singUP"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="Pico down" name="singDOWN"/>
+</character>
+>
